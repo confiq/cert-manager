@@ -1,0 +1,5 @@
+---
+ingressShim.defaultIssuerName: letsencrypt-staging
+ingressShim.defaultIssuerKind: ClusterIssuer
+installCRDs: True
+
